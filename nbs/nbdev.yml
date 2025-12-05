@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_5_dec"
+  site-url: "https://Gaurav-Adlakha.github.io/test_5_dec"
+  description: "test repo will del later.."
+  repo-branch: main
+  repo-url: "https://github.com/Gaurav-Adlakha/test_5_dec"

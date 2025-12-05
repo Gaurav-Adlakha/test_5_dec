@@ -5,10 +5,10 @@
 # %% auto 0
 __all__ = ['foo', 'hoo']
 
-# %% ../nbs/00_core.ipynb 3
+# %% ../nbs/00_core.ipynb 4
 def foo(): pass
 
-# %% ../nbs/00_core.ipynb 5
+# %% ../nbs/00_core.ipynb 6
 def hoo(
     x:int # some var for input
 ):
